@@ -1,4 +1,4 @@
-### System.out.println('Hi, there'); 👋
+# System.out.println('Hi, there'); 👋
 
 *A little more about me...* 📝
 ```
@@ -34,7 +34,7 @@
   ]
 }
 ```
-# Contact me
+## Contact me 💌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/mereles-lautaro/)
 [![Email](https://img.shields.io/badge/Email-grey)](mailto:lautaro.jobs@hotmail.com)
