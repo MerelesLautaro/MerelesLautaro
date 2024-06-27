@@ -3,11 +3,14 @@
 *A little more about me...* 📝
 ```
   @GetMapping("/get/information")
-  Public Lautaro findInformation(){
-    return service.getInformation();
+  Public User findInformation(@RequestParam String nameUser){
+    return service.findInformation(nameUser);
   }
   ...
+  https://programmers/get/information?nameUser=Lautaro
+  ...
 ```
+
 
 ```json
 {
