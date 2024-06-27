@@ -36,4 +36,4 @@
 ```
 # Contact me
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)]([URL_de_tu_perfil_de_LinkedIn](https://www.linkedin.com/in/mereles-lautaro/)) [![Email](https://img.shields.io/badge/Email-grey)](lautaro.jobs@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)]([URL_de_tu_perfil_de_LinkedIn](https://www.linkedin.com/in/mereles-lautaro/)) [![Email](https://img.shields.io/badge/Email-grey)](lautaro.jobs@hotmail.com)
