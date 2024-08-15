@@ -1,43 +1,42 @@
-# System.out.println('Hi, there'); 👋
+<h2 align="left">Hi 👋! My name is Lautaro Mereles and I'm a Backend Developer, from Argentina</h2>
 
-*A little more about me...* 📝
-```
-  @GetMapping("/get/information")
-  Public User findInformation(@RequestParam String nameUser){
-    return service.findInformation(nameUser);
-  }
-  ...
-  https://programmers/get/information?nameUser=Lautaro
-  ...
-```
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MerelesLautaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MerelesLautaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-```json
-{
-  "aboutMe": "College Technical Degree Student in Software Development",
-  "code": [
-    "Java",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "SQL"
-  ],
-  "tools": [
-    "Spring Boot",
-    "Spring Cloud",
-    "MySQL",
-    "JPA",
-    "Postman",
-    "Docker"
-  ],
-  "architecture": [
-    "Microservices",
-    "Object-oriented design",
-    "Design patterns"
-  ]
-}
-```
-## Contact me 💌
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/mereles-lautaro/)
-[![Email](https://img.shields.io/badge/Email-grey)](mailto:lautaro.jobs@hotmail.com)
+<img align="right" height="150" src="https://giffiles.alphacoders.com/219/219893.gif"  />
+
+###
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="hibernate logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="junit logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:lautarojobs19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/mereles-lautaro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
