@@ -2,7 +2,7 @@ name: Update README and Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Ejecuta a medianoche todos los días
+    - cron: '0 0 * * *'  # Ejecuta a medianoche todos los días para actualizar el README
     - cron: '* */12 * * *'  # Ejecuta cada 12 horas para la animación de la serpiente
 
   workflow_dispatch:
@@ -48,3 +48,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./path-to-your-updated-readme
+
