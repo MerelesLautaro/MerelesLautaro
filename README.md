@@ -43,8 +43,8 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="workflows/transportationappimg.jpg" style="width:49%;" />
-  <img src="workflows/transportationappimg.jpg" style="width:50%;" />
+  <img height="350" src="workflows/wintechimg.jpg" style="width:49%;" />
+  <img height="350" src="workflows/inscriptionsbackend.jpg" style="width:50%;" />
 </div>
 
 <br clear="both">
