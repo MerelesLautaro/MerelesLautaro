@@ -48,7 +48,7 @@
   <a href="https://wintech-reparaciones.netlify.app/" target="_blank">
     <img height="350" src="workflows/wintechimg.jpg" style="width:49%;" />
   </a>
-  <a href=(https://github.com/MerelesLautaro/proyecto-juegos-deportivos" target="_blank">
+  <a href="https://github.com/MerelesLautaro/proyecto-juegos-deportivos" target="_blank">
     <img height="350" src="workflows/inscriptionsbackend.jpg" style="width:50%;" />
   </a>
 </div>
