@@ -39,12 +39,18 @@
 
 
 <div align="center">
-  <img src="workflows/transportationappimg.jpg" style="width:99%;" />
+  <a href="https://www.youtube.com/watch?v=OdpycEgG7kg&t=3s" target="_blank">
+    <img src="workflows/transportationappimg.jpg" style="width:99%;" />
+  </a>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="350" src="workflows/wintechimg.jpg" style="width:49%;" />
-  <img height="350" src="workflows/inscriptionsbackend.jpg" style="width:50%;" />
+  <a href="https://wintech-reparaciones.netlify.app/" target="_blank">
+    <img height="350" src="workflows/wintechimg.jpg" style="width:49%;" />
+  </a>
+  <a href=(https://github.com/MerelesLautaro/proyecto-juegos-deportivos" target="_blank">
+    <img height="350" src="workflows/inscriptionsbackend.jpg" style="width:50%;" />
+  </a>
 </div>
 
 <br clear="both">
