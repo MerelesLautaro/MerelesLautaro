@@ -35,26 +35,6 @@
 </div>
 
 ###
-<h2 align="left">My Projects</h2>
-
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=OdpycEgG7kg&t=3s" target="_blank">
-    <img src="workflows/transportationappimg.jpg" style="width:99%;" alt="Transportation App" />
-  </a>
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <a href="https://wintech-reparaciones.netlify.app/" target="_blank">
-    <img height="350" src="workflows/wintechimg.jpg" alt="Wintech"  style="width:50%;"/>
-  </a>
-  <a href="https://github.com/MerelesLautaro/proyecto-juegos-deportivos" target="_blank">
-    <img height="350" src="workflows/inscriptionsbackend.jpg" alt="Inscriptions Backend" style="width:49%; "/>
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </div>
