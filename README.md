@@ -7,36 +7,47 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MerelesLautaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
+<pre style="display: flex; font-family: monospace; color: #ccc; background-color: #111; padding: 20px;">
+
+  <!-- ASCII ART (izquierda) -->
+  <pre style="font-size: 7px; line-height: 7px; margin: 0; padding-right: 40px; background: none; border: none;">
+                                            ##                        <strong>Description:</strong> Software Developer
+                                    ################                   
+                                ########################              <strong>Languages.Spoken:</strong> Spanish (Native), English (B1)
+                              ##########################              
+                              ##mm++++++++mm##############            <strong>Languages.Programming:</strong> Java, TypeScript
+                            ##++::::::::++::++MM##########            <strong>Tools.Backend:</strong> Spring, Node.js, Express, MySQL, MongoDB
+                            MM++++::::::++::::::++mmMM######          <strong>Tools.DevOps:</strong> Docker, Kafka, Redis
+                          @@++++++++++++++++++++++++mm@@##            
+                          mm::mm::::::::::::::++++++mmmm##            <strong>Hobbies.Tech:</strong> API Design, Scalable Systems
+                          ::mmMM######mm::--::::::++mmmm##            <strong>Hobbies.NonTech:</strong> KickBoxing, Retro Games
+                          ::::++@@@@MM--::++@@########MM@@            
+                        --::++mmMM@@MM++++mm@@@@##@@@@##MM            <strong>Contact:</strong>
+                        ..----::++++::--++mmMM@@MMMM@@MMMMmm          Email: <a href="mailto:lautarojobs19@gmail.com" style="color: #58a6ff;">lautarojobs19@gmail.com</a>
+                          ....--::::--::++mmmm++++mmmmmmMMmm          LinkedIn: <a href="https://www.linkedin.com/in/mereles-lautaro/" style="color: #58a6ff;">Lautaro Mereles</a>
+                          ....--::--..::::mm++++::++++mmMM            
+                          ....--::++::..++MM++::++++++mmMM            
+                          ....::++mmmmmmmmMM++::++++mmmmmm            
+                          ....::--..--mm++MMMM++++mmmm                
+                          ..::----++MM@@@@@@++++++mm                  
+                            ------++++++++++mm++mmmm                  
+                            --::::++mm++++++mmmmMMMM                  
+                          MM------::::++++mmMMMMMMMM                  
+                      ####++--::mmmm::++mmMMMMmmmm@@####              
+                ####mm####mm::----++mmmmmmmmmmmmMM########            
+          ########++########++::--::++mmmmmmmm@@##########MM          
+    ##########################MM++++mmmmmmMM##############@@####      
+  ############################@@@@@@MMmm################@@MM########  
+########################################################::############
+######################################################--##############
+####################################################mm################
+######################################################################
+##########################@@##########################################
+######################################################################
+######################################################################
+######################################################################
+  </pre>
+</pre>
 
 
-###
-
-<h3 align="left">I code with 👾</h3>
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="hibernate logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="junit logo" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:lautarojobs19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/mereles-lautaro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-<div align="center">
-  <img height="200" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
-</div>
-
-<br clear="both">
